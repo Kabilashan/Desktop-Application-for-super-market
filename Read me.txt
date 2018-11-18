@@ -1,0 +1,24 @@
+This application has been created for a large super market as a desktop application for manage all the management works in the super market.
+Softwares which are used to impliment this application are,
+	Netbeans IDE
+	ireport
+	jasper report
+	php myadmin(you can use mysql also as the database)
+Types of management which have been created in this application,
+	Employee Management
+	Customer Management
+	Supplier Management
+	Stock Management
+	Section Management(racks management)
+	Financial Management
+	Billing System
+If you need you can change this application to .exe format. You need to create all the table which are requied for this application
+All the .jar files(Libraries) which are need to this program are saparetly in the Libraries folder.you need to add all the .jar files 
+to you program to resolve the problem.
+
+
+
+
+	
+
+  
