@@ -2402,7 +2402,7 @@ public class MainpageSection extends javax.swing.JFrame {
         Session session =Session.getDefaultInstance(props,
                 new javax.mail.Authenticator(){
                 protected PasswordAuthentication getPasswordAuthentication(){
-                return new PasswordAuthentication("gunasirien1996@gmail.com","sliit123");
+                return new PasswordAuthentication("love@gmail.com","sliit123");//you need to create a gmail for love@gmail.com
                 }
                 
                 }

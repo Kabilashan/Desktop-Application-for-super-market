@@ -3257,7 +3257,7 @@
                   <Component id="Date" min="-2" pref="127" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="1356" max="-2" attributes="0"/>
                   <Component id="jButton1" min="-2" max="-2" attributes="0"/>
-                  <EmptySpace pref="2279" max="32767" attributes="0"/>
+                  <EmptySpace pref="2283" max="32767" attributes="0"/>
               </Group>
           </Group>
         </DimensionLayout>

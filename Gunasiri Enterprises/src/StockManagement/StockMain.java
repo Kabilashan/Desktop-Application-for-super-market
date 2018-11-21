@@ -1868,7 +1868,7 @@ tableLoad2();
            try {
                                
                         String host = "smtp.gmail.com";
-                        String user = "gunasirishop@gmail.com";
+                        String user = "love@gmail.com";//you need to create a gmail for love@gmail.com
                         String pass = "gunasiri2018";
                         String to = "raveesha96127@gmail.com";
                         String from = "noreplykushisalon@gmail.com";

@@ -3147,7 +3147,7 @@ public class Employeemain extends javax.swing.JFrame {
                         rs=pst.executeQuery();
                         rs.next();
                         String host = "smtp.gmail.com";
-                        String user = "gunasirishop@gmail.com";
+                        String user = "love@gmail.com";//you need to create a gmail for love@gmail.com
                         String pass = "gunasiri2018";
                         String to = email;
                         String from = "gunasirishop@gmail.com";
